@@ -100,7 +100,7 @@ Link: https://www.kaggle.com/datasets/whenamancodes/hr-employee-attrition
 
 **Whether the majority of left employees come from the young age group?** 
 
-![age](
+![age](https://github.com/lh-elaitch0731/hr_employee_attrition/blob/main/Visualization/Age.png)
 
 - The chart shows that young adults who are under 30 tend to leave a company than older employees.
 - Perhaps the young expect to find more opportunities in labour market, while the senior prefer a stable job.
