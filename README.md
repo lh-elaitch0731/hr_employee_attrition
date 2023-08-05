@@ -1,6 +1,6 @@
 # **EMPLOYEE TURNOVER RATE**
 ------
-![overview pic](https://realbusinessda.s3.eu-west-2.amazonaws.com/wp-content/uploads/2019/08/shutterstock_571663528-e1506426484431.jpg)
+![overview](https://blog.jostle.me/hubfs/Google%20Drive%20Integration/How%20your%20employee%20turnover%20rate%20impacts%20your%20business.png)
 
 # Table of Contents:
 - [Introduction](#introduction)
